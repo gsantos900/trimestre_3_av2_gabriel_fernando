@@ -1,6 +1,7 @@
 programa {
   funcao inicio() {
     menuPrincipal()
+    menuRemoveItem()
   }
 
 
@@ -19,7 +20,10 @@ programa {
 			escreva("Escolha uma opcao: ")
      }
 
+    funcao menuRemoveItem() {
+      
 
+    }
 
 
 
